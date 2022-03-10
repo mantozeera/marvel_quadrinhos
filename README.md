@@ -2,7 +2,7 @@
 
 ## 🚀 Começando
 
-Este projeto foi desemvolvido com intuito de trazer o conteúdo de quadrinhos dos pensonagens da MARVEL!
+Este projeto foi desenvolvido com intuito de trazer o conteúdo de quadrinhos dos pensonagens da MARVEL!
 Tudo isso com a API REST fornecida no site do mesmo.
 O projeto apresenta informações detalhadas das HQs e personagens da MARVEL, podendo buscar e acessar essas informações individualmente!
 
