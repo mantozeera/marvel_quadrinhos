@@ -16,8 +16,11 @@ Mysql, Laravel/PHP, CSS, Composer
 1) Para instalar as dependências:
        `composer update`
        `npm install`
+2) Para gerar tabelas no banco de dados
+       `criar um banco de dados, e setar o nome do mesmo no arquivo .env`
+       `php artisan migrate`
    
-2) Para rodar localmente: `php artisan serve` , estará disponível em: http://127.0.0.1:8000/
+3) Para rodar localmente: `php artisan serve` , estará disponível em: http://127.0.0.1:8000/
    
 
 ## 🛠️ Construído com
